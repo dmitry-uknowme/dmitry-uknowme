@@ -40,16 +40,16 @@
 
 ---
 
-## 📫 Contacts
-
-- 📧 Email: [bogatyrov200488@gmail.com](mailto:bogatyrov200488@gmail.com)  
-- 💼 GitHub: [dmitry-uknowme](https://github.com/dmitry-uknowme)
-
----
-
 ## 📊 My GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitry-uknowme&layout=compact&theme=radical&langs_count=8)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitry-uknowme&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=dmitry-uknowme&theme=radical)
+
+---
+
+## 📫 Contacts
+
+- 📧 Email: [bogatyrov200488@gmail.com](mailto:bogatyrov200488@gmail.com)  
+- 💼 GitHub: [dmitry-uknowme](https://github.com/dmitry-uknowme)
 
