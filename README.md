@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Dmitry 👋</h1>
 
 <p align="center">
-  <strong>Fullstack Web Developer</strong> with 5+ years of experience delivering scalable, real-time, and AI-integrated web apps.
+  <strong>Fullstack Web Developer</strong> with 5+ years of experience delivering scalable, and AI-integrated web apps.
 </p>
 
 ---
