@@ -8,9 +8,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🔹 Started with frontend, now building both client- and server-side architecture  
-- 🔹 Proficient in **SPA** development with **React**, **TypeScript**, **Redux/MobX**, **SCSS Modules**, **BEM**  
-- 🔹 Experience with **API integration**, **real-time features**, **WebSocket**, **WebRTC**
+- 🔹 Started with frontend, now building both client and server-side architecture  
 
 ---
 
