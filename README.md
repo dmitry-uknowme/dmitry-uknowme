@@ -1,7 +1,3 @@
-<p align="right">
-  🇬🇧 English | <a href="#русская-версия">🇷🇺 Русская версия</a>
-</p>
-
 <h1 align="center">Hi, I'm Dmitry 👋</h1>
 
 <p align="center">
@@ -51,25 +47,9 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/dmitry-uknowme">
-    <img src="https://github-readme-stats.vercel.app/api?username=dmitry-uknowme&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/dmitry-uknowme">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitry-uknowme&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-  </a>
-</p>
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <a href="https://github.com/dmitry-uknowme">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dmitry-uknowme&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitry-uknowme&layout=compact&theme=radical&langs_count=8)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitry-uknowme&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=dmitry-uknowme&theme=radical)
 
