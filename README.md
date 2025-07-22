@@ -50,3 +50,26 @@
 - 💼 GitHub: [dmitry-uknowme](https://github.com/dmitry-uknowme)
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/dmitry-uknowme">
+    <img src="https://github-readme-stats.vercel.app/api?username=dmitry-uknowme&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/dmitry-uknowme">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitry-uknowme&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  </a>
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <a href="https://github.com/dmitry-uknowme">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dmitry-uknowme&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
