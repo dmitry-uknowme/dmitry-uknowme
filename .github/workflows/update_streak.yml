@@ -3,24 +3,39 @@ name: Update GitHub Streak Image
 on:
   schedule:
     - cron: "0 */2 * * *" # каждые 2 часа
-  workflow_dispatch: # запуск вручную
+  workflow_dispatch:     # возможность вручную запускать workflow
 
 jobs:
   update-streak:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Download GitHub Streak image
-        run: |
-          curl -o assets/streak.png "https://streak-stats.demolab.com?user=dmitry-uknowme&theme=default"
-
-      - name: Commit and push if changed
+      - name: Set up Git config
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Create assets folder if missing
+        run: mkdir -p assets
+
+      - name: Download GitHub streak image with retry
+        run: |
+          for i in {1..5}; do
+            echo "Attempt $i..."
+            curl -sSf -o assets/streak.png "https://streak-stats.demolab.com?user=dmitry-uknowme&theme=default" && break
+            echo "Download failed. Retrying in 5 seconds..."
+            sleep 5
+          done
+
+      - name: Commit and push if changed
+        run: |
           git add assets/streak.png
-          git diff --cached --quiet || git commit -m "Update GitHub streak image"
-          git push
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update streak image [auto]"
+            git push
+          fi
