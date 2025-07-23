@@ -25,7 +25,7 @@ jobs:
         run: |
           for i in {1..5}; do
             echo "Attempt $i..."
-            curl -sSf -o assets/streak.png "https://streak-stats.demolab.com?user=dmitry-uknowme&theme=default" && break
+            curl -sSf -o assets/streak.svg "https://streak-stats.demolab.com?user=dmitry-uknowme&theme=default" && break
             echo "Download failed. Retrying in 5 seconds..."
             sleep 5
           done
