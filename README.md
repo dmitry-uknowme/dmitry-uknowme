@@ -41,7 +41,7 @@
 ## 📊 My GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitry-uknowme&layout=compact&langs_count=8)
-![GitHub Streak](https://streak-stats.demolab.com?user=dmitry-uknowme)
+![GitHub Streak](assets/streak.png)
 
 ---
 
