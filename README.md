@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🔹 Started with frontend, now building both client and server-side architecture  
+- 🔹 Started with frontend, now building both client and server-side architectur  
 
 ---
 
