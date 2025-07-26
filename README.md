@@ -39,14 +39,12 @@
 ---
 
 ## 📊 My GitHub Stats
-
 ![GitHub Streak](assets/streak.svg)
-![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=dmitry-uknowme&layout=compact&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitry-uknowme&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitry-uknowme&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact)
 
 ---
 
 ## 📫 Contacts
-
 - 📧 Email: [bogatyrov200488@gmail.com](mailto:bogatyrov200488@gmail.com)  
 - 💼 GitHub: [dmitry-uknowme](https://github.com/dmitry-uknowme)
 
