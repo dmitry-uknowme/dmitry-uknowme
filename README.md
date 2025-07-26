@@ -40,8 +40,8 @@
 
 ## 📊 My GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitry-uknowme&layout=compact&langs_count=8)
 ![GitHub Streak](assets/streak.svg)
+![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=dmitry-uknowme&layout=compact&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitry-uknowme&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact))
 
 ---
 
